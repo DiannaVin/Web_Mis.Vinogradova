@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://DiannaVin.github.io/Web_Mis.Vinogradova/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Disallow specific files
+Disallow: /sw.js
+Disallow: /manifest.json 
